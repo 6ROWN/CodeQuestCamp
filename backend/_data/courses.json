@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Introduction to JavaScript",
+		"description": "A beginner's guide to JavaScript programming, including basics of syntax, functions, and objects.",
+		"duration": 20,
+		"instructor": "Jane Doe",
+		"prerequisites": ["Basic HTML", "Basic CSS"],
+		"bootcamp": "60d21b4667d0d8992e610c85",
+		"user": "60d21b4667d0d8992e610c85"
+	},
+	{
+		"title": "Advanced React",
+		"description": "Deep dive into React with topics including hooks, context API, and state management.",
+		"duration": 30,
+		"instructor": "John Smith",
+		"prerequisites": ["Introduction to JavaScript", "Basic React"],
+		"bootcamp": "60d21b4667d0d8992e610c86",
+		"user": "60d21b4667d0d8992e610c86"
+	},
+	{
+		"title": "Node.js and Express",
+		"description": "Learn server-side programming with Node.js and Express, including building APIs and managing databases.",
+		"duration": 25,
+		"instructor": "Alice Johnson",
+		"prerequisites": ["Introduction to JavaScript", "Basic HTML"],
+		"bootcamp": "60d21b4667d0d8992e610c87",
+		"user": "60d21b4667d0d8992e610c87"
+	}
+]
